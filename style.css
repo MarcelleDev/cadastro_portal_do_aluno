@@ -1,0 +1,29 @@
+body{
+    background: rgba(238, 237, 237, 0.534);
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="text"],
+input[type="text"],
+input[type="number"],
+button {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #033b06;
+}
